@@ -9,25 +9,25 @@
  * - everything else comes from the copy first.
  * It never touches what the cook has saved: that lives in IndexedDB.
  */
-const CACHE = "neja-app-1.1.6-99e1fe919d";
+const CACHE = "neja-app-1.1.7-cbdf6214d3";
 const FILES = [
   "./",
-  "assets/CookModeView-DzndFnvQ.js",
-  "assets/InstallSection-BySCLULL.js",
-  "assets/NejaSettingsSection-Yxu8SaSs.js",
-  "assets/NotificationsView-CMQcQgel.js",
-  "assets/ReportsView-DG1npVan.js",
-  "assets/SettingsReportsCard-D-Q19rdh.js",
-  "assets/SettingsView-BwWHfyRo.js",
-  "assets/SystemSection-CDILN2jK.js",
+  "assets/CookModeView-CiUcnRP3.js",
+  "assets/InstallSection-DMYKbF6h.js",
+  "assets/NejaSettingsSection-DXjhmoo0.js",
+  "assets/NotificationsView-CrDKJnFm.js",
+  "assets/ReportsView-D0UoxrDS.js",
+  "assets/SettingsReportsCard-D6ckMr0i.js",
+  "assets/SettingsView-CTf1_sSA.js",
+  "assets/SystemSection-B7dxdAK9.js",
   "assets/createLucideIcon-CIaDJQzH.js",
   "assets/dist-CQRKs1TP.js",
   "assets/dist-DcBEYh1w.js",
   "assets/download-BtMZNFgC.js",
-  "assets/index-D7LwUZGm.js",
-  "assets/index-Dw_UUhM2.css",
+  "assets/index-CziQdxA_.css",
+  "assets/index-D3XwzZre.js",
   "assets/input-tqrbPDPG.js",
-  "assets/ocr-DrtXJnA0.js",
+  "assets/ocr-BivbbAgl.js",
   "assets/recipeOps-R87EZarb.js",
   "assets/rolldown-runtime-C0FnF6B9.js",
   "assets/src-SuYvKHvm.js",
